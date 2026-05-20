@@ -1041,7 +1041,7 @@ letter-spacing: 3px;
 }
 .btnComoLlegar{
  text-decoration: none;
-  color:#f0c6af;
+  color:#FFF;
   background-color: #ae8370; 
   font-family: 'Arapey', serif; 
   font-size: 15px;
@@ -1064,7 +1064,7 @@ letter-spacing: 3px;
 @media (min-width: 1200px) { /*laptop*/
   .btnComoLlegar{
     text-decoration: none;
-  color:#f0c6af;
+  color:#FFF;
   background-color: #ae8370; 
   font-family: 'Arapey', serif; 
   font-size: 15px;
@@ -1430,7 +1430,7 @@ margin-bottom:;}
 }
 .btnComoLlegar{
     text-decoration: none;
-  color:#f0c6af;
+  color:#FFF;
   background-color: #ae8370; 
   font-family: 'Arapey', serif; 
   font-size: 15px;
@@ -1452,7 +1452,7 @@ margin-bottom:;}
 @media (min-width: 1200px) { /*laptop*/
   .btnComoLlegar{
   text-decoration: none;
-  color:#6F7163;
+  color:#FFF;
   background-color: #D6C5B2; 
   font-family: 'Arapey', serif; 
   font-size: 15px;
@@ -1560,7 +1560,7 @@ margin-bottom:;}
 }
 .btnComoLlegar{
 text-decoration: none;
-  color:#f0c6af;
+  color:#FFF;
   background-color: #ae8370; 
   font-family: 'Arapey', serif; 
   font-size: 15px;
