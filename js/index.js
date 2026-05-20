@@ -499,7 +499,20 @@ function personas11() {
 function personas12() {
     window.open("pases/inicio12.html", "_self");        
 }
-
+ function copiar(){
+  var origen = document.getElementById('target1');
+  var destino = document.getElementById('target10');
+  var copyFrom = document.createElement("textarea");
+  copyFrom.textContent = origen.value;
+  var body = document.getElementsByTagName('body')[0];
+  body.appendChild(copyFrom);
+  copyFrom.select();
+  document.execCommand('copy');
+  alert("Copiado al portapapeles!");
+  body.removeChild(copyFrom);
+  destino.focus();
+  document.execCommand('paste');
+}
  function copiar1(){
   var origen = document.getElementById('target1');
   var destino = document.getElementById('target10');
