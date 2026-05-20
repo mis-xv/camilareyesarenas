@@ -1055,7 +1055,7 @@ letter-spacing: 3px;
 
 .btnComoLlegar:hover{
   text-decoration: none;
-  background-color: transparent; 
+  background-color: #e5bca6; 
   font-family: 'Arapey', serif; 
   font-size: 15px;
   color:#ae8370;
@@ -1443,7 +1443,7 @@ margin-bottom:;}
 
 .btnComoLlegar:hover{
   text-decoration: none;
-  background-color: #ae8370; 
+  background-color: #e5bca6; 
   font-family: 'Arapey', serif; 
   font-size: 15px;
   color:#ae8370;
